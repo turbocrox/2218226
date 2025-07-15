@@ -39,5 +39,3 @@ get http://localhost:5000/shorturls/<shortcode>
 
 
 
-
-Ask ChatGPT
